@@ -5,6 +5,7 @@
 #### react-native run-ios
  #### react-native link react-native-reanimated  <br>
    #### react-native link react-native-gesture-handler
+   #### react-native link react-native-vector-icons
 
     "react-native": "0.59.0",                   
     "react-native-gesture-handler": "^1.3.0",    
